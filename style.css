@@ -1,0 +1,169 @@
+body {
+    font-family: sans-serif;
+    background-color:white;
+    color: black;
+    margin: 0;
+}
+.logo{
+width: 93px;
+height: 51px;
+margin: 17px
+}
+
+.loop{
+    width: 40px;
+    height:40px;
+    margin-top:22px
+}
+
+.search_text{
+width: 166px;
+height: 30px;
+
+font-family: Inter;
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+border: solid 5px #E8D8AC;
+background-color: white;
+
+color: #E8D8AC;
+}
+
+.search_bar{
+    display: flex;
+}
+
+.offer_box{
+    text-align: center;
+    border: solid #EDFFEE;
+    background-color: #EDFFEE;
+    width: 800px;
+    margin:auto;
+    box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.buy_info{
+    display:flex;
+    justify-content: center;
+}
+
+.top{
+display: flex;
+justify-content: space-around;
+border-bottom: solid 1px black;
+}
+
+.top_bar{
+    background-color: #D0FFD0;
+}
+
+.top_text{
+    display:flex;
+    justify-content: center;
+    font-size: 55px;
+    font-family: Times New Roman, Times, serif;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+    font-size:25px;
+    padding: 15px;
+    color: #3E9B3E;
+}
+
+.buy_button{
+    text-decoration: none;
+    color: #3E9B3E;
+    font-size:32px;
+    font-family: Piazolla;
+    border: solid 2px #8ED18E;
+    border-radius: 18px;
+    width:143px;
+    background-color: #8ED18E;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+
+}
+
+.button_container{
+    display:flex;
+    align-items:center;
+    
+}
+
+.dots{
+    display:flex;
+    align-items: center;
+    width:300px;
+}
+
+.flower_info{
+    padding-right: 80px; 
+    font-family: Piazolla;
+}
+
+.short_info{
+    width: 787px;
+    height: 190px;
+    margin:auto;
+
+    font-family: 'Piazzolla';
+    font-weight: 400;
+    font-size: 18px;
+
+    color: #000000;
+}
+
+.short_about_us{
+    text-align: center;
+    margin-right:800px;
+}
+
+.flower_cost{
+    font-size:24px;
+    display:flex;
+    justify-content: flex-start;
+}
+
+.bucket {
+    width: 40px;
+    height:40px;
+    margin-top:22px;
+}
+.nav-link {
+    text-decoration: none;
+    color: #3E9B3E;
+}
+
+.instagram{
+    display:flex;
+    justify-content: start;
+
+}
+.instagram_logo{
+    width: 20px;
+    height:20px;
+    margin:15px 15px 0px 12px;
+}
+
+.tiktok{
+    display:flex;
+    justify-content: start;
+}
+
+.tiktok_logo{
+    width: 25px;
+    height:25px;
+    margin:10px 10px 0px 10px;
+
+}
+
+.bottom_bar{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #D0FFD0;
+}
+
